@@ -1,0 +1,15 @@
+.Header{
+    text-align: center;
+}
+.tarjeta{
+    display: flex;
+    flex-direction: row;
+    column-gap: 5rem;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer{
+    text-align: justify;
+    padding:0px 200px;
+}
